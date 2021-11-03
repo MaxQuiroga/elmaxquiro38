@@ -4,7 +4,6 @@
 - 📫 How to reach me ...
    LimkedIn:   https://www.linkedin.com/in/maximiliano-quiroga-3a269b216/
    Instagram:  https://www.instagram.com/max_quiroga38/
-   Twitch:     https://www.twitch.tv/capitan_max_tw
    Twitter:    https://twitter.com/Maxoff20
 
 <!---
